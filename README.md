@@ -1,4 +1,4 @@
-# My name is Mischa.
+## My name is Mischa.
 ### Solo Game Developer
 ---
 - 🛠️ I’m currently working on my senior project.
