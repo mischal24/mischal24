@@ -1,4 +1,4 @@
-![Check out my portfolio!](https://github.com/mischal24/mischal24/blob/main/Github%20Banner.png)
+![Check out my portfolio!](https://github.com/mischal24/mischal24/blob/main/Banner.png)
 
 - 🛠️ I’m currently working on **my senior project**.
 - 🌱 I’m currently learning the ***Godot Game Engine***, I know a bit but I could learn more!
